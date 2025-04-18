@@ -1,0 +1,7 @@
+1) Danio rerio (zebrafish) 
+2) cryaa
+3) 4: Target sequence: GGTAGCGACGATGGAACTCACGG     Genomic location: chr1:29099973 
+4) Primer pair:
+Left primer: 5’-TCGTTTTTAAGCGTTTCTGTTG-3’  Position: Chr1: 29099918–29099940  
+Right primer: 5’-ATCTATGCCACTTGTCTTGGGT-3’ | Position: Chr1: 29100069–29100091 
+5) If the cryaa gene is knocked out in a zebrafish, then the expected phenotype is the development of a cloudy or missing eye lenses (similar to cataracts). This gene is essential for the proper formation and transparency of the lens, so without it, the fish will show impaired vision or visible lens opacity. You can usually see the difference by looking at their eyes under a microscope, which make cryaa a super helpful gene for spotting whether the CRISPR editing worked. 
